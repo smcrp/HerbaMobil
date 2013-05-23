@@ -24,13 +24,13 @@
 					});
 				});
 								
-				$('#productos').live('pageshow',function(){
+				//$('#productos').live('pageshow',function(){
 
-				});		
+				//});		
 				
-				$('#ver').live('pageshow',function(){
+				//$('#ver').live('pageshow',function(){
 					
-				});	
+				//});	
 				
 			},
 			connection : null,
